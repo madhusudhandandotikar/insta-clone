@@ -4,6 +4,9 @@ Insta Clone
 
 ![insta-clone profile bio](https://github.com/user-attachments/assets/afee5a0b-2006-4580-85ee-94981d931744)
 
+![insta-clone dashboard](https://github.com/user-attachments/assets/334e2b5a-f145-473a-9559-c529eb17b9b5)
+
+
 
 
 Welcome to the Insta Clone repository! 🎉 This project is a full-stack Instagram clone built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). It replicates the core functionalities of Instagram, providing users with a dynamic, responsive, and seamless experience.
